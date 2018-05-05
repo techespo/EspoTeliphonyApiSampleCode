@@ -1,0 +1,4 @@
+#Sat May 05 10:21:56 IST 2018
+base.0=C\:\\Users\\ashwini\\Desktop\\EbookGit\\EspoirTelephonyAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
